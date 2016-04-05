@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi my name is Štěpán Michal
+UČO: 448969
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Jsem z České republiky a studuji na Masarykově univerzitě v Brně.
 
 ### Contact me
 
