@@ -3,8 +3,8 @@ layout: Dne 5. 4. 2016
 title: Hi there!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Vítejte na stránce vytvořené pomocí jekkylu.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Nejjednodušší postup jak vytvořit první post je editace přímo tohoto (Tu Zde již vidíte). Stačí jít do /_posts/ a updatovat složku Hello World markdown file. Více informací najdete na [Jekyll Now repository](https://github.com/barryclark/jekyll-now) na GitHubu.
