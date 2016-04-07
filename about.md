@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi my name is Štěpán Michal
+Ahoj mé jméno je Štěpán Michal,
 UČO: 448969
 
-### More Information
+### Více informací
 
 Jsem z České republiky a studuji na Masarykově univerzitě v Brně.
 
-### Contact me
+### Kontakt
 
 [email@domain.com](mailto:email@domain.com)
