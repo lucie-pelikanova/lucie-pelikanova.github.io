@@ -12,4 +12,4 @@ Pro více informací využijte e-mail.
 
 ### Contact me
 
-[email@domain.com](mailto:lucie.pelikanova@email.cz)
+[lucie.pelikanova@email.cz](mailto:email@domain.com)
