@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /o webu/
+permalink: /about/
 ---
 
 Tato stránka se zaměřuje na osobnost informační vědy, finského vědce Kalervo Järvelina
 
-### Více informací
+### More information
 
 Pro více informací využijte e-mail.
 
-### Kontaktujte mě
+### Contact me
 
 [lucie.pelikanova@email.cz](mailto:email@domain.com)
