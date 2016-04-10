@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tato stránka se zaměřuje na osobnost informační vědy, finského vědce Kalervo Järvelina
 
 ### More Information
 
