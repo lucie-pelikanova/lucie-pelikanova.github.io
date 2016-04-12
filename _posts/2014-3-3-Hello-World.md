@@ -3,8 +3,7 @@ layout: Dne 5. 4. 2016
 title: Hi there!
 ---
 
-Vítejte na stránce vytvořené pomocí jekkylu.
+Vítejte na stránce vytvořené pomocí jekkylu. Týkající se simulátorů.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml](http://www.rebelsracing.cz/cs/novinky/files/pictures/news/301-racebox.jpg)
 
-Nejjednodušší postup jak vytvořit první post je editace přímo tohoto (Tu Zde již vidíte). Stačí jít do /_posts/ a updatovat složku Hello World markdown file. Více informací najdete na [Jekyll Now repository](https://github.com/barryclark/jekyll-now) na GitHubu.
