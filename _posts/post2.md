@@ -3,4 +3,6 @@ layout: post
 title: Videopřednáška
 ---
 
+## <MTMarkdownOptions output='html4'>
 <embed id="irfplayer" type="application/x-shockwave-flash" width="568" height="480" src="http://santorini.ir-facility.org/irfplayer1.swf" name="irfplayer" bgcolor="#ffffff" quality="high" allowscriptaccess="always" align="left" flashvars="irfVid=IRFS2007/32_jarvelin"> </embed>
+</MTMarkdownOptions>
