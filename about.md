@@ -19,8 +19,6 @@ Lucie Pelikánová - Ta se přidala, protože asi neví co roupama. Kontrola po 
 Naše motivace pro tento projekt spočívá v tom, že Štěpán a Veronika tneto film viděli, líbí se jim, a Lucka očividně nemohla odolat.
 
 ---
-Další informace
----
 
 ###Vizuální inspirace
 
