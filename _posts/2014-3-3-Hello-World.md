@@ -33,7 +33,7 @@ https://twitter.com/ChappieTheMovie
 
 Trailer 
 
-<iframe width="650" height="420" src="https://www.youtube.com/embed/l6bmTNadhJE" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/l6bmTNadhJE
 
 Videa ze zákulisí
 http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms
