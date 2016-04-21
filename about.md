@@ -18,6 +18,12 @@ Lucie Pelikánová - Ta se přidala, protože asi neví co roupama. Kontrola po 
 
 Naše motivace pro tento projekt spočívá v tom, že Štěpán a Veronika tneto film viděli, líbí se jim, a Lucka očividně nemohla odolat.
 
+---
+layout: page
+title: Další informace
+permalink: /info/
+---
+
 ##Vizuální inspirace
 Web bude střižen do modré barvy, abychom ladili s barvami filmu a samotného Chappieho. Použijeme screenshoty z filmů, plakátů a možná také něco z artbooku. Vše bude dělat jeden člen ve Photoshopu. Alespoň co se týče designu.
 
