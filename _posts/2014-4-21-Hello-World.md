@@ -26,12 +26,12 @@ title: Project Chappie!
 
  Oficiální Twitter: 
  [https://twitter.com/ChappieTheMovie]("https://twitter.com/ChappieTheMovie")
- 
+  
 5. Pokud se budem zabývat opravdu jen filmem, existuje pouze jediný ne-webový zdroj, a tím je oficiální art book k tomuto filmu. Jde o nový film, o kterém neblo mnoho napsáno a vytvořeno a jediný spolehlivý zdroj je tedy opravdu jen kniha od tvůrců. 
-
+ 
 6. Disponujem 3 hodinovým dokumentem o natočení filmu, ten ale není přístupný online.
 
-Trailer:  
+Trailer: 
 [youtube]("https://www.youtube.com/embed/l6bmTNadhJE")
 
 Videa ze zákulisí: 
