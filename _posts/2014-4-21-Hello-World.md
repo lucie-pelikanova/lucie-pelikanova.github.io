@@ -11,26 +11,27 @@ title: Project Chappie!
 3. Chappie
   
 4. Ono je celkově málo zdrojů i celosvětově, takže zde je seznam co se podařilo najít
-Wikipedia
 
-[wikipedia]("https://en.wikipedia.org/wiki/Chappie_%28film%29")
+ Wikipedia
 
-IMDB
+ [wikipedia]("https://en.wikipedia.org/wiki/Chappie_%28film%29")
 
-[http://www.imdb.com/title/tt1823672/]("http://www.imdb.com/title/tt1823672/")
+ IMDB
 
-Největší Chappie fan blog
+ [http://www.imdb.com/title/tt1823672/]("http://www.imdb.com/title/tt1823672/")
 
-[http://chappieshome.tumblr.com/]("http://chappieshome.tumblr.com/")
+ Největší Chappie fan blog
 
-Oficiání Facebook
+ [http://chappieshome.tumblr.com/]("http://chappieshome.tumblr.com/")
 
-[https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts]("https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts")
+ Oficiání Facebook
 
-Oficiální Twitter
+ [https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts]("https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts")
 
-[https://twitter.com/ChappieTheMovie]("https://twitter.com/ChappieTheMovie")
-  
+ Oficiální Twitter
+
+ [https://twitter.com/ChappieTheMovie]("https://twitter.com/ChappieTheMovie")
+ 
 5. Pokud se budem zabývat opravdu jen filmem, existuje pouze jediný ne-webový zdroj, a tím je oficiální art book k tomuto filmu. Jde o nový film, o kterém neblo mnoho napsáno a vytvořeno a jediný spolehlivý zdroj je tedy opravdu jen kniha od tvůrců. 
   
 6. Disponujem 3 hodinovým dokumentem o natočení filmu, ten ale není přístupný online. 
