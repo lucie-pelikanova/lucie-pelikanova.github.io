@@ -12,41 +12,32 @@ title: Project Chappie!
   
 4. Ono je celkově málo zdrojů i celosvětově, takže zde je seznam co se podařilo najít
 
+ Wikipedia: 
+[wikipedia]("https://en.wikipedia.org/wiki/Chappie_%28film%29")
 
- Wikipedia
+ IMDB: 
+[http://www.imdb.com/title/tt1823672/]("http://www.imdb.com/title/tt1823672/")
 
- [wikipedia]("https://en.wikipedia.org/wiki/Chappie_%28film%29")
+ Největší Chappie fan blog: 
+[http://chappieshome.tumblr.com/]("http://chappieshome.tumblr.com/")
 
- IMDB
+ Oficiání Facebook: 
+[https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts]("https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts")
 
- [http://www.imdb.com/title/tt1823672/]("http://www.imdb.com/title/tt1823672/")
-
- Největší Chappie fan blog
-
- [http://chappieshome.tumblr.com/]("http://chappieshome.tumblr.com/")
-
- Oficiání Facebook
-
- [https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts]("https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts")
-
- Oficiální Twitter
-
+ Oficiální Twitter: 
  [https://twitter.com/ChappieTheMovie]("https://twitter.com/ChappieTheMovie")
  
 5. Pokud se budem zabývat opravdu jen filmem, existuje pouze jediný ne-webový zdroj, a tím je oficiální art book k tomuto filmu. Jde o nový film, o kterém neblo mnoho napsáno a vytvořeno a jediný spolehlivý zdroj je tedy opravdu jen kniha od tvůrců. 
 
-6. Disponujem 3 hodinovým dokumentem o natočení filmu, ten ale není přístupný online. 
+6. Disponujem 3 hodinovým dokumentem o natočení filmu, ten ale není přístupný online.
 
-Trailer 
-
+Trailer:  
 [youtube]("https://www.youtube.com/embed/l6bmTNadhJE")
 
-Videa ze zákulisí
-
-[video 1]("http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms")
+Videa ze zákulisí: 
+[video 1]("http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms"), 
 [video 2]("https://www.youtube.com/playlist?list=PLvU5k5j7MWtEqnIc9PjqBDkwqdCz6v_6t")
 
-Obrázky
-
+Obrázky: 
 [obrázek]("https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9")
 
