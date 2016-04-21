@@ -12,20 +12,20 @@ title: Project Chappie!
 4. Ono je celkově málo zdrojů i celosvětově, takže zde je seznam co se podařilo najít
 
 Wikipedia
-https://en.wikipedia.org/wiki/Chappie_%28film%29
+<a href="https://en.wikipedia.org/wiki/Chappie_%28film%29"></a>
 
 IMDB
-http://www.imdb.com/title/tt1823672/
+<a href="http://www.imdb.com/title/tt1823672/"></a>
 
 Největší Chappie fan blog
-http://chappieshome.tumblr.com/
+<a href="http://chappieshome.tumblr.com/"></a>
 
 Oficiání Facebook
-https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts
+<a href="https://www.facebook.com/ChappieMovie/?ref=ts&fref=ts"></a>
 
 Oficiální Twitter
 
-https://twitter.com/ChappieTheMovie
+<a href="https://twitter.com/ChappieTheMovie"></a>
 
 5. Pokud se budem zabývat opravdu jen filmem, existuje pouze jediný ne-webový zdroj, a tím je oficiální art book k tomuto filmu. Jde o nový film, o kterém neblo mnoho napsáno a vytvořeno a jediný spolehlivý zdroj je tedy opravdu jen kniha od tvůrců. 
 
@@ -33,12 +33,12 @@ https://twitter.com/ChappieTheMovie
 
 Trailer 
 
-https://www.youtube.com/embed/l6bmTNadhJE
+<a href="https://www.youtube.com/embed/l6bmTNadhJE"></a>
 
 Videa ze zákulisí
-http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms
-https://www.youtube.com/playlist?list=PLvU5k5j7MWtEqnIc9PjqBDkwqdCz6v_6t
+<a href="http://www.dailymotion.com/video/x2xbvn3_chappie-behind-the-scenes_shortfilms"></a>
+<a href="https://www.youtube.com/playlist?list=PLvU5k5j7MWtEqnIc9PjqBDkwqdCz6v_6t"></a>
 
 Obrázky
-https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9
+<a href="https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9"></a>
 
