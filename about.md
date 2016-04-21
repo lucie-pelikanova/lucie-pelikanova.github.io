@@ -20,11 +20,11 @@ Naše motivace pro tento projekt spočívá v tom, že Štěpán a Veronika tnet
 
 ---
 
-###Vizuální inspirace
+## Vizuální inspirace
 
 Web bude střižen do modré barvy, abychom ladili s barvami filmu a samotného Chappieho. Použijeme screenshoty z filmů, plakátů a možná také něco z artbooku. Vše bude dělat jeden člen ve Photoshopu. Alespoň co se týče designu.
 
-###Základní obsah k tématu
+## Základní obsah k tématu
 
 Základní informace k filmu
 Děj filmu
@@ -37,6 +37,6 @@ Roboti
 Kde se brala inspirace
 Iniciativa od fanušků
 
-###Jaké informace a jakým způsobem budeme zveřejňovat?
+## Jaké informace a jakým způsobem budeme zveřejňovat?
 
 Dohodli jsme se, že nejlepší bude zveřejňovat informace podle výše zmíněné strukktury. Takže informace budou pribývat v logickém pořadí.
