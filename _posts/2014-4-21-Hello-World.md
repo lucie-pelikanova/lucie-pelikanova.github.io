@@ -3,15 +3,15 @@ layout: page
 title: Project Chappie!
 ---
 
-** Kdo je cílovou skupinou? **
+**Kdo je cílovou skupinou?**
 Mládež od 15 let, minimálně, spíš dospělejší lidé, film není určen pro děti. Taky pro lidi kteří milují roboty a sci-fi.
  
-** Co je cílem tohoto webu? **
+**Co je cílem tohoto webu?**
 Cílem je informovat o tomto filmu, který byl odvysílán minulý rok, ale bohužel se kvůli neblahé odezvě kritiků moc neprosadil a mnoho lidí ho nevidělo. Účel tohoto webu je tuto křivdu napravit. Chappie je velice zajímavý a originální film, ale tady v ČR nebude mít asi tak dobrou pověst, také kvůli hroznému českému dabingu. Takže náš web bude film propagovat v pozitivním světle. 
   
 Název webu: Chappie
   
-** Jaké jsou webové zdroje k tomuto tématu? **
+**Jaké jsou webové zdroje k tomuto tématu?**
 Ono je celkově málo zdrojů i celosvětově, takže zde je seznam co se podařilo najít
 
  Wikipedia: 
@@ -29,10 +29,10 @@ Ono je celkově málo zdrojů i celosvětově, takže zde je seznam co se podař
  Oficiální Twitter: 
  [https://twitter.com/ChappieTheMovie]("https://twitter.com/ChappieTheMovie")
   
-** A ty newebové? **
+**A ty newebové?**
 Pokud se budem zabývat opravdu jen filmem, existuje pouze jediný ne-webový zdroj, a tím je oficiální art book k tomuto filmu. Jde o nový film, o kterém neblo mnoho napsáno a vytvořeno a jediný spolehlivý zdroj je tedy opravdu jen kniha od tvůrců. 
  
-** Máte k nějaká videa na toto téma? **
+**Máte k nějaká videa na toto téma?**
 Disponujem 3 hodinovým dokumentem o natočení filmu, ten ale není přístupný online. Dále zde najdeme:
 
 Trailer: 
