@@ -1,5 +1,5 @@
 ---
-layout: Dne 21. 4. 2016
+layout: page
 title: Project Chappie!
 ---
 
