@@ -24,16 +24,16 @@ Web bude střižen do modré barvy, abychom ladili s barvami filmu a samotného 
 
 ## Základní obsah k tématu
 
-Základní informace k filmu
-Děj filmu
-Kde se natáčelo
-Speciální efekty a Weta workshop
-Hudba
-Režišér a herci
-Postavy
-Roboti
-Kde se brala inspirace
-Iniciativa od fanušků
++ Základní informace k filmu
++ Děj filmu
++ Kde se natáčelo
++ Speciální efekty a Weta workshop
++ Hudba
++ Režišér a herci
++ Postavy
++ Roboti
++ Kde se brala inspirace
++ Iniciativa od fanušků
 
 ## Jaké informace a jakým způsobem budeme zveřejňovat?
 
