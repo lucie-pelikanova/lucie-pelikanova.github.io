@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O nás
-permalink: /O projektu/
+permalink: /about/
 ---
 
 ### Složení teamu
