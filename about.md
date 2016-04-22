@@ -8,13 +8,13 @@ permalink: /about/
 
 Tým se skládá ze tří lidí, kupodivu.
 
-Veronila Kovářová - Ta to začala. Zná film nejlépe, takže má na starosti obsah a design
+Veronika Kovářová - Ta to začala. Zná film nejlépe, takže má na starosti obsah a design
 
 Štěpán Michal - Ten se přidal. Náš IT pracovník, bude obstarávat CSS a podobně.
 
-Lucie Pelikánová - Ta se přidala, protože asi neví co roupama. Kontrola po nás dvou a také brzda pro případ že děláme blbosti.
+Lucie Pelikánová - Ta se přidala, protože asi neví co roupama. Kontrola po nás dvou a také brzda pro případ, že děláme blbosti.
 
-Naše motivace pro tento projekt spočívá v tom, že Štěpán a Veronika tneto film viděli, líbí se jim, a Lucka očividně nemohla odolat.
+Naše motivace pro tento projekt spočívá v tom, že Štěpán a Veronika tento film viděli, líbí se jim, a Lucka očividně nemohla odolat.
 
 ---
 
@@ -37,4 +37,4 @@ Iniciativa od fanušků
 
 ## Jaké informace a jakým způsobem budeme zveřejňovat?
 
-Dohodli jsme se, že nejlepší bude zveřejňovat informace podle výše zmíněné strukktury. Takže informace budou pribývat v logickém pořadí.
+Dohodli jsme se, že nejlepší bude zveřejňovat informace podle výše zmíněné struktury. Takže informace budou přibývat v logickém pořadí.
