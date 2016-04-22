@@ -45,6 +45,6 @@ Videa ze zákulisí:
 Obrázky: 
 [obrázek]("https://www.google.cz/search?q=chappie&newwindow=1&biw=2144&bih=1082&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3t_TS253MAhVLApoKHd4qBlQQ_AUIBygB&dpr=0.9")
 
----
+
 Další informace o projektu již najdete v kolonce about. :)
----
+
