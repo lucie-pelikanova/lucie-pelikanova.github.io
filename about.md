@@ -33,7 +33,7 @@ Web bude střižen do modré barvy, abychom ladili s barvami filmu a samotného 
 + Postavy
 + Roboti
 + Kde se brala inspirace
-+ Iniciativa od fanušků
++ Iniciativa od fanoušků
 
 ## Jaké informace a jakým způsobem budeme zveřejňovat?
 
