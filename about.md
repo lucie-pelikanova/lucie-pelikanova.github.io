@@ -1,10 +1,8 @@
 ---
 layout: page
 title: O nás
-permalink: /about/
+permalink: /O projektu/
 ---
-
-Zde jsou nějaké informace o nás:
 
 ### Složení teamu
 
